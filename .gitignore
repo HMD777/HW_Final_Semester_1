@@ -1,2 +1,2 @@
-obj
-.csproj
+obj/
+*_wpftmp.csproj
